@@ -1,0 +1,16 @@
+---
+title: "Scalable coordinated management of peer-to-peer energy trading: A multi-cluster deep reinforcement learning approach"
+collection: publications
+permalink: /publication/2021-06-01-Scalable-coordinated-management-of-peer-to-peer-energy-trading-A-multi-cluster-deep-reinforcement-learning-approach
+category: manuscripts
+date: 2021-06-01
+venue: 'APPLIED ENERGY'
+authors: 'Dawei Qiu, Yujian Ye, Dimitrios Papadaskalopoulos, Goran Strbac'
+citation: ' Dawei Qiu,  Yujian Ye,  Dimitrios Papadaskalopoulos,  Goran Strbac, &quot;Scalable coordinated management of peer-to-peer energy trading: A multi-cluster deep reinforcement learning approach.&quot; APPLIED ENERGY, 2021.'
+---
+
+## Abstract
+
+The increasing penetration of small-scale distributed energy resources (DER) has the potential to support cost-efficient energy balancing in emerging electricity systems, but is also fundamentally affecting the conventional operation paradigm of the latter. In this context, innovative market mechanisms need to be devised to better coordinate and provide incentives for DER to utilize their flexibility. Peer-to-Peer (P2P) energy trading has emerged as an alternative approach to facilitate direct trading between consumers and prosumers interacting in an energy collective and fosters more efficient local demand-supply balancing. While previous research has primarily focused on the technical and economic benefits of P2P trading, little effort has been made towards the incorporation of prosumers&apos; heterogeneous characteristics in the P2P trading problem. Here, we address this research gap by classifying the participating prosumers into multiple clusters with regard to their portfolio of DER, and analyzing their trading decisions in a simulated P2P trading platform. The latter employs the mid-market rate (MMR) local pricing mechanism to enable energy trading among prosumers and penalizes the contribution to the system demand peak of each prosumer. We formulate the P2P trading problem as a multi-agent coordination problem and propose a novel multi-agent deep reinforcement learning (MADRL) method to address it. The proposed method is founded on the combination of the multi-agent deep deterministic policy gradient (MADDPG) algorithm and the technique of parameter sharing (PS), which not only enables accelerating the training speed by sharing experiences and learned policies between all agents in each cluster, but also sustains the policies&apos; diversity between multiple clusters. To address the non-stationarity and computational complexity of MADRL as well as persevering the privacy of prosumers, the P2P trading platform acts as a trusted third party which augments the market collective trading information to help training of prosumer agents. Experiments with a large-scale real-world data-set involving 300 residential households demonstrate that the proposed MADRL method exhibits a strong generalization capability in the test data-set and outperforms the state-of-the-art MADRL methods with regard to the system operation cost, demand peak as well as computational time.
+
+Use [Google Scholar](https://scholar.google.com/scholar?q=Scalable+coordinated+management+of+peer+to+peer+energy+trading:+A+multi+cluster+deep+reinforcement+learning+approach){:target="_blank"} for full citation

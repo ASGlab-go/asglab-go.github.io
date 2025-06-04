@@ -23,7 +23,7 @@ repository               : "ASGlab-go/asglab-go.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Dr. D. Qiu"
+  name             : "AI for Smart Grid Lab"
   pronouns         : # example: "she/her"  
   bio              : "Advancing energy system modelling and AI-driven solutions for sustainable energy future"
   location         : "Exeter, UK"
@@ -220,6 +220,9 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
+  projects:
+    output: true
+    permalink: /:collection/:path/
   portfolio:
     output: true
     permalink: /:collection/:path/
@@ -261,6 +264,15 @@ defaults:
   - scope:
       path: ""
       type: publications
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+  # _projects
+  - scope:
+      path: ""
+      type: projects
     values:
       layout: single
       author_profile: true

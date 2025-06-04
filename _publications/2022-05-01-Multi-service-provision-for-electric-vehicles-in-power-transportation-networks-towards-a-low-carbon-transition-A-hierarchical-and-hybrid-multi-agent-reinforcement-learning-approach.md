@@ -1,0 +1,16 @@
+---
+title: "Multi-service provision for electric vehicles in power-transportation networks towards a low-carbon transition: A hierarchical and hybrid multi-agent reinforcement learning approach"
+collection: publications
+permalink: /publication/2022-05-01-Multi-service-provision-for-electric-vehicles-in-power-transportation-networks-towards-a-low-carbon-transition-A-hierarchical-and-hybrid-multi-agent-reinforcement-learning-approach
+category: manuscripts
+date: 2022-05-01
+venue: 'APPLIED ENERGY'
+authors: 'Dawei Qiu, Yi Wang, Mingyang Sun, Goran Strbac'
+citation: ' Dawei Qiu,  Yi Wang,  Mingyang Sun,  Goran Strbac, &quot;Multi-service provision for electric vehicles in power-transportation networks towards a low-carbon transition: A hierarchical and hybrid multi-agent reinforcement learning approach.&quot; APPLIED ENERGY, 2022.'
+---
+
+## Abstract
+
+In order to achieve the target of carbon peak and carbon neutrality, electric vehicles (EVs) have increasingly received a prominent interest to electrify the transportation sector due to their advantages of mobility and flexibility on handling complicated transportation and power networks. However, it is still challenging to realize the significant potential of EVs towards an emerging low-carbon transition. Previous works have focused on vehicle-to-grid (V2G) technology that allows for an increased utilization of EVs to make arbitrage by the temporal differentials of electricity prices. Nevertheless, the economic potential of EVs flexibility may not be fully exploited lacking an appropriate business model. This paper addresses this challenge by developing a coupled power-transportation network for cooperative EVs to optimize the provision of multiple inter-dependent services, including charging service, demand management service, carbon intensity service, and balancing service. In order to unlock this value, the EVs operation problem has already been tackled using model-based optimization approaches, which may raise privacy issues since the requirement for global information and also can be time consuming due to the high variability of transportation and power networks. In this paper, we propose a model-free hierarchical and hybrid multi-agent reinforcement learning method to learn the routing and scheduling decisions of EVs in a coupled power-transportation network with the objective of optimizing multi-service provisions. To this end, EVs do not reply on any knowledge of the simulated environment and are capable of handling system uncertainties via the learning process. Extensive case studies based on a 15-bus radial power distribution network and a 9-node 12-edge transportation network are developed to show that the proposed method outperforms the conventional learning algorithms in terms of policy quality and convergence speed. Finally, the generalizability and scalability are also investigated for different environment circumstances and EV numbers.
+
+Use [Google Scholar](https://scholar.google.com/scholar?q=Multi+service+provision+for+electric+vehicles+in+power+transportation+networks+towards+a+low+carbon+transition:+A+hierarchical+and+hybrid+multi+agent+reinforcement+learning+approach){:target="_blank"} for full citation

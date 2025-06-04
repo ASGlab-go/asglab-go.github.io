@@ -26,16 +26,8 @@ import re
 
 #todo: incorporate different collection types rather than a catch all publications, requires other changes to template
 publist = {
-    "proceeding": {
-        "file" : "proceedings.bib",
-        "venuekey": "booktitle",
-        "venue-pretext": "In the proceedings of ",
-        "collection" : {"name":"publications",
-                        "permalink":"/publication/"}
-        
-    },
     "journal":{
-        "file": "pubs.bib",
+        "file": "dawei.qiu.bib",
         "venuekey" : "journal",
         "venue-pretext" : "",
         "collection" : {"name":"publications",
@@ -111,6 +103,13 @@ for pubsource in publist:
             citation = citation + " " + html_escape(venue)
             citation = citation + ", " + pub_year + "."
 
+            # Build authors list separately for easy access
+            authors_list = []
+            for author in bibdata.entries[bib_id].persons["author"]:
+                author_name = " ".join(author.first_names) + " " + " ".join(author.last_names)
+                authors_list.append(author_name.strip())
+            authors_string = ", ".join(authors_list)
+
             
             ## YAML variables
             md = "---\ntitle: \""   + html_escape(b["title"].replace("{", "").replace("}","").replace("\\","")) + '"\n'
@@ -118,6 +117,12 @@ for pubsource in publist:
             md += """collection: """ +  publist[pubsource]["collection"]["name"]
 
             md += """\npermalink: """ + publist[pubsource]["collection"]["permalink"]  + html_filename
+            
+            # Add category for publications
+            if pubsource == "journal":
+                md += "\ncategory: manuscripts"
+            elif pubsource == "proceeding":
+                md += "\ncategory: conferences"
             
             note = False
             if "note" in b.keys():
@@ -128,6 +133,9 @@ for pubsource in publist:
             md += "\ndate: " + str(pub_date) 
 
             md += "\nvenue: '" + html_escape(venue) + "'"
+            
+            # Add authors field
+            md += "\nauthors: '" + html_escape(authors_string) + "'"
             
             url = False
             if "url" in b.keys():
@@ -141,6 +149,12 @@ for pubsource in publist:
 
             
             ## Markdown description for individual page
+            
+            # Add abstract if available
+            if "abstract" in b.keys():
+                abstract_text = b["abstract"].replace("{", "").replace("}", "").replace("\\", "")
+                md += "\n\n## Abstract\n\n" + html_escape(abstract_text) + "\n"
+            
             if note:
                 md += "\n" + html_escape(b["note"]) + "\n"
 

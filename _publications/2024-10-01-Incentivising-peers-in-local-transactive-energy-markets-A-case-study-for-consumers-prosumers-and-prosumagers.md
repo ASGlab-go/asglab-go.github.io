@@ -1,0 +1,16 @@
+---
+title: "Incentivising peers in local transactive energy markets: A case study for consumers, prosumers and prosumagers"
+collection: publications
+permalink: /publication/2024-10-01-Incentivising-peers-in-local-transactive-energy-markets-A-case-study-for-consumers-prosumers-and-prosumagers
+category: manuscripts
+date: 2024-10-01
+venue: 'IET SMART GRID'
+authors: 'Yaa Kwateng, Dawei Qiu, Goran Strbac'
+citation: ' Yaa Kwateng,  Dawei Qiu,  Goran Strbac, &quot;Incentivising peers in local transactive energy markets: A case study for consumers, prosumers and prosumagers.&quot; IET SMART GRID, 2024.'
+---
+
+## Abstract
+
+A decarbonised future grid should couple technological novelty with innovative market models to efficiently capture the value of grid-edge decarbonised assets. The transactive energy (TE) concept inverts the centralised grid model by leveraging the evolution of consumers to prosumers to prosumagers. The principal TE market design challenge is transactive control-using market and pricing mechanisms to coordinate autonomous peer interactions, to optimally allocate power and incentivise peers. Peer attraction, incentivisation and retention are all critical for practical TE implementation along three adoption stages, starting from independent peer transactions with the centralised market; to decentralised peer coordination; towards distributed peer-to-peer trading. Addressing gaps in related scholarship, the authors investigate the economic positions of distinct peer roles in each adoption stage and two local pricing strategies. Using a real market dataset, trading decisions are simulated over a 1-year horizon at hourly granularity. Coordinated action achieves better transactive control for the community, with economic superiority over centralised and distributed mechanisms. Distinct peer incentives should equitably align with their contribution to market functionality, such as the value ascribed to prosumagers&apos; flexibility in local pricing and the constrained bargaining power of prosumers in distributed bilateral negotiations. Addressing gaps in related scholarship, the authors use a case study approach to quantify the economic outcomes of distinct peer evolutionary roles (consumers, prosumers, and prosumagers) as they participate in the market designs (centralised, decentralised, and distributed peer-to-peer) along the transactive energy maturity roadmap. Decentralised coordinated action is economically superior for the community, over centralised and distributed mechanisms. However, distinct peer incentives should equitably align with their contribution to market functionality, such as the value ascribed to prosumagers&apos; flexibility in local prices and the constrained bargaining power of prosumers in distributed bilateral negotiations. image
+
+Use [Google Scholar](https://scholar.google.com/scholar?q=Incentivising+peers+in+local+transactive+energy+markets:+A+case+study+for+consumers,+prosumers+and+prosumagers){:target="_blank"} for full citation

@@ -1,0 +1,16 @@
+---
+title: "Hierarchical multi-agent reinforcement learning for repair crews dispatch control towards multi-energy microgrid resilience"
+collection: publications
+permalink: /publication/2023-04-01-Hierarchical-multi-agent-reinforcement-learning-for-repair-crews-dispatch-control-towards-multi-energy-microgrid-resilience
+category: manuscripts
+date: 2023-04-01
+venue: 'APPLIED ENERGY'
+authors: 'Dawei Qiu, Yi Wang, Tingqi Zhang, Mingyang Sun, Goran Strbac'
+citation: ' Dawei Qiu,  Yi Wang,  Tingqi Zhang,  Mingyang Sun,  Goran Strbac, &quot;Hierarchical multi-agent reinforcement learning for repair crews dispatch control towards multi-energy microgrid resilience.&quot; APPLIED ENERGY, 2023.'
+---
+
+## Abstract
+
+Extreme events are greatly impacting the normal operations of microgrids, which can lead to severe outages and affect the continuous supply of energy to customers, incurring substantial restoration costs. Repair crews (RCs) are regarded as crucial resources to provide system resilience owing to their mobility and flexibility characteristics in handling both transportation and energy systems. Nevertheless, effectively coordinating the dispatch of RCs towards system resilience is a complex decision-making problem, especially in the context of a multi-energy microgrid (MEMG) with enormous dynamics and uncertainties. To this end, this paper formulates the dispatch problem of RCs in a coupled transportation and power-gas network as a decentralized partially observable Markov decision process (Dec-POMDP). To solve this Dec-POMDP, a hierarchical multi -agent reinforcement learning (MARL) algorithm is proposed by featuring a two-level framework, where the high-level action is used for switching decision-making between transportation and power-gas networks, and the lower-level action constructed via the multi-agent proximal policy optimization (MAPPO) algorithm is used to compute the routing and repairing decisions of RCs in the transportation and power-gas networks, respectively. The proposed algorithm also introduces an abstracted critic network by integrating the load restoration status, which captures the system dynamics and stabilizes the training performance with privacy protection. Extensive case studies are evaluated on a coupled 6-bus power and 6-bus gas network integrated with a 9-node 12-edge transportation network. The proposed algorithm outperforms the conventional MARL algorithms in terms of policy quality, learning stability, and computational performance. Furthermore, the dispatch strategies of RCs are analyzed and their corresponding benefits for load restoration are also evaluated. Finally, the scalability of the proposed method is also investigated for a larger 33-bus power and 15-bus gas network integrated with an 18-node 27-edge transportation network.
+
+Use [Google Scholar](https://scholar.google.com/scholar?q=Hierarchical+multi+agent+reinforcement+learning+for+repair+crews+dispatch+control+towards+multi+energy+microgrid+resilience){:target="_blank"} for full citation

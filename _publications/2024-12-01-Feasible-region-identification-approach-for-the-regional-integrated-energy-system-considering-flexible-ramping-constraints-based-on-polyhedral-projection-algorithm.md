@@ -1,0 +1,16 @@
+---
+title: "Feasible region identification approach for the regional integrated energy system considering flexible ramping constraints based on polyhedral projection algorithm"
+collection: publications
+permalink: /publication/2024-12-01-Feasible-region-identification-approach-for-the-regional-integrated-energy-system-considering-flexible-ramping-constraints-based-on-polyhedral-projection-algorithm
+category: manuscripts
+date: 2024-12-01
+venue: 'INTERNATIONAL JOURNAL OF ELECTRICAL POWER &amp; ENERGY SYSTEMS'
+authors: 'Zhan Xiong, Chunyan Zhang, Dawei Qiu, Lingling Wang, Chuanwen Jiang, Shichao Zhou'
+citation: ' Zhan Xiong,  Chunyan Zhang,  Dawei Qiu,  Lingling Wang,  Chuanwen Jiang,  Shichao Zhou, &quot;Feasible region identification approach for the regional integrated energy system considering flexible ramping constraints based on polyhedral projection algorithm.&quot; INTERNATIONAL JOURNAL OF ELECTRICAL POWER &amp;amp; ENERGY SYSTEMS, 2024.'
+---
+
+## Abstract
+
+The low-carbon agenda promotes the increasing penetration of renewable energy, this however also results in a rapid decrease in the flexibility of power systems with less controllable generation. There is an urgent requirement to explore user-side resources to provide flexibility for the power system. The regional integrated energy system (RIES) contains a large number of multi-energy coupling devices with abundant flexibility. However, considering the multi-energy complementary characteristics and complex multi-energy networks, as well as the uncertainty of the renewable energy, it is difficult to quantify the energy purchasing demand and flexibility support ability of RIES in the market, making it challenging to identify the RIES feasible region. This paper proposes a novel approach to tackle this challenge by introducing a projection method based on secondorder cone programming. The approach aims to describe the energy purchasing and flexible reserve feasible regions of an RIES. Specifically, a max-min RIES operating model is constructed with the goal of minimizing the distance from the boundary of the feasible region in the worst case. Subsequently, the strong duality principle and Karush-Kuhn-Tucker (KKT) optimality conditions are leveraged to reformulate the max-min optimization problem into a solvable second-order cone programming problem. Additionally, the chance constraint is introduced to address and express the risk associated the uncertainty of the renewable energy output in RIES. Moreover, for the convenience of subsequent solving, the deterministic equivalent method is used to convert it into a deterministic constraint. Case studies conducted on an RIES incorporating a 33-bus distribution network and a 7-node natural gas network demonstrate the effectiveness and efficiency of the proposed approach in projecting the feasible region in terms of both operating costs and computational time.
+
+Use [Google Scholar](https://scholar.google.com/scholar?q=Feasible+region+identification+approach+for+the+regional+integrated+energy+system+considering+flexible+ramping+constraints+based+on+polyhedral+projection+algorithm){:target="_blank"} for full citation

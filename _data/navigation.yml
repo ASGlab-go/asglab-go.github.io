@@ -14,17 +14,17 @@ main:
   - title: "Publications"
     url: /publications/
 
+  - title: "Members"
+    url: /members/
+
   - title: "Talks"
     url: /talks/    
 
   - title: "Teaching"
     url: /teaching/    
     
-  - title: "Portfolio"
-    url: /portfolio/
-        
-  - title: "Blog Posts"
-    url: /year-archive/
+  - title: "Projects"
+    url: /projects/
     
   - title: "CV"
     url: /cv/

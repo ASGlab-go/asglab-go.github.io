@@ -4,7 +4,6 @@ title: "News"
 permalink: /news/
 author_profile: true
 ---
-
 ## 2025
 
 **May 21, 2025:** Project Event! Dawei Qiu, Zhong Fan, and Jianhong Wang attended and contributed to the GW4 Showcase Event in Bristol.
@@ -65,4 +64,4 @@ author_profile: true
 
 **September 23, 2024:** Dawei Qiu started lecturing Introduction to Power Systems and Plant and Resilience of Electrical Energy Systems at the University of Exeter.
 
-**September 09, 2024:** Dawei Qiu joined the University of Exeter as a Lecturer (Assistant Professor) in Smart Energy Systems. 
+**September 09, 2024:** Dawei Qiu joined the University of Exeter as a Lecturer (Assistant Professor) in Smart Energy Systems.
