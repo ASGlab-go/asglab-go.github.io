@@ -6,7 +6,7 @@ author_profile: true
 ---
 ## 2025
 
-**May 21, 2025:** Project Event! Dawei Qiu, Zhong Fan, and Jianhong Wang attended and contributed to the GW4 Showcase Event in Bristol.
+**May 21, 2025:** Project Event! Dawei Qiu, Zhong Fan, and Jianhong Wang attended and contributed to the GW4 Showcase Event in Bristol..
 
 **May 20, 2025:** New Member! Welcome Zhichuan Ma to the ASG lab as a PhD student. Zhichuan is funded by the Department Funding and will be working on energy economics and the environment.
 
