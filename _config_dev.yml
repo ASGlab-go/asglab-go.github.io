@@ -1,0 +1,11 @@
+# Development configuration overrides
+# This file is used for local development only
+
+url: "http://localhost:4000"
+baseurl: ""
+host: "0.0.0.0"
+port: 4000
+
+# Force all URLs to use localhost instead of 0.0.0.0
+# This ensures links work properly from Windows browser
+livereload_port: 35729 
