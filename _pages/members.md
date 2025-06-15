@@ -4,25 +4,52 @@ title: "Lab Members"
 permalink: /members/
 author_profile: true
 ---
+### Dr. Dawei Qiu
+
+<img src="/images/members/dawei.jpeg" alt="Dr. Dawei Qiu" style="float: left; width: 140px; height: 200px; object-fit: cover; margin: 10px 20px 20px 0; border-radius: 8px;">
+
 I am a Lecturer (Assistant Professor) in Smart Energy Systems (Education & Research) within the [Department of Engineering at the University of Exeter](https://engineering.exeter.ac.uk/). I am running the "AI for Smart Grid" ([ASG](/asg-lab)) lab, which currently includes a team of over 7 researchers. I also serve as a Research Fellow in Market Design for Low Carbon Energy Systems at [Imperial College London](https://www.imperial.ac.uk/electrical-engineering/research/control-and-power/), working within [Professor Goran Strbac](https://profiles.imperial.ac.uk/g.strbac)'s group, where I lead research on electricity market design. At the University of Exeter, I am the module leader for [*Introduction to Power Systems and Plant*](https://www.exeter.ac.uk/study/studyinformation/modules/info/?moduleCode=ENGM045&ay=2025&sys=1) and [*Resilience of Electrical Energy Systems*](https://www.exeter.ac.uk/study/studyinformation/modules/info/?moduleCode=ENGM032&ay=2025&sys=1), both part of the MSc programme in [*Electrical Power and Smart Grids*](https://www.exeter.ac.uk/study/postgraduate/courses/engineering/epsg/). I also lecture the [*Electric Machines and Power Electronics*](https://www.exeter.ac.uk/study/studyinformation/modules/info/?moduleCode=ENGM009&ay=2025&sys=1) module. I also contribute as a guest lecturer at Imperial College London for the courses *Power System Economics*, *Selected Topics in Power Systems*, and *Smart Grid and Data Science* in the MSc programme in [*Future Power Networks*](https://www.imperial.ac.uk/study/courses/postgraduate-taught/future-power-networks/).
 
 I obtained my B.Eng. degree in Electrical and Electronic Engineering from Northumbria University in 2014, followed by an M.Sc. degree in Power System Engineering from University College London in 2015. I completed my Ph.D. degree in Electrical Engineering at Imperial College London in 2020. After earning my doctorate, I joined Imperial College London as a Research Associate. Since June 2023, I has been promoted to be a Research Fellow in Market Design for Low-Carbon Energy Systems at Imperial College London.
 
-Lab Members: [Postdocs](#postdocs) | [Ph.D. students](#phd-students) | [Visiting Scholars](#visiting-scholars) | [M.Sc. students](#msc-students) | [M.Eng. students](#meng-students)
+
+I obtained my B.Eng. degree in Electrical and Electronic Engineering from Northumbria University in 2014, followed by an M.Sc. degree in Power System Engineering from University College London in 2015. I completed my Ph.D. degree in Electrical Engineering at Imperial College London in 2020. After earning my doctorate, I joined Imperial College London as a Research Associate. Since June 2023, I has been promoted to be a Research Fellow in Market Design for Low-Carbon Energy Systems at Imperial College London.
+
+<span style="font-size: 18px; font-weight: bold;">[Postdocs](#postdocs) | [Ph.D. students](#phd-students) | [Visiting Scholars](#visiting-scholars) | [M.Sc. students](#msc-students) | [M.Eng. students](#meng-students)</span>
 
 ## Postdocs
 
 ### Dr. Qiong Liu (Exeter, May 2025 - ongoing)
 
-* **Background**: Ph.D. in Electrical Engineering (Tsinghua–Berkeley Shenzhen Institute, China)
-* **Research Focus**: Reinforcement learning, adaptive control, smart grids
-* **Project**: Trustworthy and Safe AI for Energy Systems
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+  <div style="flex-shrink: 0; margin-right: 20px;">
+    <img src="/images/members/qiong.jpg" alt="Dr. Qiong Liu" style="width: 120px; height: auto; border-radius: 8px;">
+  </div>
+  <div style="flex: 1;">
+    <ul>
+      <li>Ph.D. in Electrical Engineering (Tsinghua–Berkeley Shenzhen Institute, China)</li>
+      <li>Research: reinforcement learning, adaptive control, smart grids</li>
+      <li>Project: Trustworthy and Safe AI for Energy Systems</li>
+      <li>Pages: <a href="https://scholar.google.com/citations?hl=zh-CN&user=n9sc-loAAAAJ" target="_blank">Google Scholar</a></li>
+    </ul>
+  </div>
+</div>
 
 ### Dr. Zhanhua Pan (Exeter, May 2025 - ongoing)
 
-* **Background**: Ph.D. in Electrical Engineering (South China University of Technology, China)
-* **Research Focus**: Reinforcement learning, electricity markets
-* **Project**: Trustworthy and Safe AI for Energy Systems
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+  <div style="flex-shrink: 0; margin-right: 20px;">
+    <img src="/images/members/zhanhua.jpg" alt="Dr. Zhanhua Pan" style="width: 120px; height: auto; border-radius: 8px;">
+  </div>
+  <div style="flex: 1;">
+    <ul>
+      <li>Ph.D. in Electrical Engineering (South China University of Technology, China)</li>
+      <li>Research: reinforcement learning, electricity markets</li>
+      <li>Project: Trustworthy and Safe AI for Energy Systems</li>
+      <li>Pages: <a href="https://panzhanhua.github.io/" target="_blank">Github Page</a></li>
+    </ul>
+  </div>
+</div>
 
 ---
 
