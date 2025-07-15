@@ -61,7 +61,7 @@ I obtained my B.Eng. degree in Electrical and Electronic Engineering from Northu
 
 * **Research Focus**: Energy economics, Net-zero transitions, Whole-energy system modelling
 * **Funding**: Department fully funded PhD studentship
-* **Pages**: [Github](https://zhichuanma.github.io/)
+* **Pages**: [Github Page](https://zhichuanma.github.io/)
 
 **Haodong Xie** (Exeter, July 2025 - ongoing)
 
